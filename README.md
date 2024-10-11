@@ -1,6 +1,15 @@
-## This is my personal neovim config.
+# This is my personal neovim config.
 
-### List of features:
+## How to install:
+
+```bash
+git clone git@github.com:joshlarue/arch-nvim ~/.config/nvim
+cd .config/nvim
+chmod u+x install.sh
+./install.sh
+```
+
+## List of features:
 
 - Plugin and LSP management with [Lazy.nvim](https://github.com/folke/lazy.nvim) and [Mason.nvim](https://github.com/williamboman/mason.nvim)
 - Auto-formatting with [Conform](https://github.com/stevearc/conform.nvim) and [Prettier](https://prettier.io/)
