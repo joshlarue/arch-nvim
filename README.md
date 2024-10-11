@@ -3,7 +3,7 @@
 ## How to install:
 
 ```bash
-git clone git@github.com:joshlarue/arch-nvim ~/.config/nvim
+git clone https://github.com/joshlarue/arch-nvim ~/.config/nvim
 cd .config/nvim
 chmod u+x install.sh
 ./install.sh
