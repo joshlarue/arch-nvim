@@ -1,4 +1,5 @@
 sudo pacman -S cmake npm ripgrep lazygit
+sudo npm install -g @fsouza/prettierd
 
 echo "******************"
 echo "Choose a nerdfont to install:"
